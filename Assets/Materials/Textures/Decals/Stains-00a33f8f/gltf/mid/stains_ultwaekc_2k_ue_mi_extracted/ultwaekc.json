@@ -1,0 +1,305 @@
+{
+  "assetCategories": {
+    "imperfection": {
+      "stain": {}
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "imperfections"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 8192,
+  "id": "ultwaekc",
+  "json": {
+    "contentLength": 6602,
+    "uri": "ultwaekc.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#686868",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 68486290,
+      "maxIntensity": 134,
+      "mimeType": "image/x-exr",
+      "minIntensity": 19,
+      "name": "Gloss",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "ultwaekc_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#686868",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 27029357,
+      "maxIntensity": 134,
+      "mimeType": "image/jpeg",
+      "minIntensity": 19,
+      "name": "Gloss",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "ultwaekc_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#373737",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 147475558,
+      "maxIntensity": 217,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Mask",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "mask",
+      "uri": "ultwaekc_8K_Mask.exr"
+    },
+    {
+      "averageColor": "#373737",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 27557920,
+      "maxIntensity": 217,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Mask",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "mask",
+      "uri": "ultwaekc_8K_Mask.jpg"
+    },
+    {
+      "averageColor": "#979797",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 59761332,
+      "maxIntensity": 236,
+      "mimeType": "image/x-exr",
+      "minIntensity": 121,
+      "name": "Roughness",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "ultwaekc_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#979797",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 26573117,
+      "maxIntensity": 236,
+      "mimeType": "image/jpeg",
+      "minIntensity": 121,
+      "name": "Roughness",
+      "physicalSize": "0.25x0.25",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "ultwaekc_8K_Roughness.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.25x0.25 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "32768 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Stains",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 141590,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "ultwaekc_Grid_360.png"
+      },
+      {
+        "contentLength": 192389,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "ultwaekc_Grid_420.png"
+      },
+      {
+        "contentLength": 549262,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "ultwaekc_Grid_720.png"
+      },
+      {
+        "contentLength": 746921,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "ultwaekc_Grid_840.png"
+      },
+      {
+        "contentLength": 1347540,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "ultwaekc_Popup_1440.png"
+      },
+      {
+        "contentLength": 2458223,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "ultwaekc_Popup_1920.png"
+      },
+      {
+        "contentLength": 5148624,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "ultwaekc_Popup_2880.png"
+      },
+      {
+        "contentLength": 9050381,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "ultwaekc_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 00:59:59",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "imperfection",
+    "contains": [
+      "Stain",
+      "Stains",
+      "Dirt",
+      "Surface Imperfection"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX",
+      "automotive"
+    ],
+    "latin_name": [],
+    "locations": {},
+    "maxSize": 0.25,
+    "minSize": 0.25,
+    "name": "Stains",
+    "resolution": 8192,
+    "season": [],
+    "subject_matter": "manmade"
+  },
+  "tags": [
+    "imperfection",
+    "stain",
+    "stains",
+    "dirt"
+  ],
+  "texelDensity": 32768,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 54264240,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/ultwaekc_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 15628471,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/ultwaekc_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 4138833,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/ultwaekc_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1305453,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/ultwaekc_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}

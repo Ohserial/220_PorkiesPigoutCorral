@@ -1,0 +1,112 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>This Trash Receptacle is found in common fast food restuarants. Designed to keep trash cans available to the public, but keeps the garbage inside invisible. The doors are seperate, and anchored to swing at their appropriate area. Inside is a square base trash can that fits.</p>\n<p>Update: 02/12/2023</p>\n<ul>\n<li>Model was remesh to remove any N-gons.</li>\n<li>A new UV layout</li>\n<li>Added textures.</li>\n</ul>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a7ec3338-1eb5-45c4-8261-83d26cdd69b4/968d4867-c0c1-4db9-8d71-cdc070abc7b8.jpeg",
+		"publishedAt": "2024-10-27T17:59:19.914797Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/a8448fde-66b7-4bbe-a469-273fed121f68/79c965d4-d2c1-468b-b8a3-3ba581a8b695.jpeg",
+		"title": "Trash Receptacle",
+		"uid": "8e2d6f1e-5292-49fb-8c74-73bcd7fb0799",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-y5xzlguzk2eaq3ve5htk8nt3azbj49/backgroundImage/blob-1920x540-d331166bf8755d6a0b64d647ba0ad5a4.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-y5xzlguzk2eaq3ve5htk8nt3azbj49/profile/9975f872.png",
+			"sellerName": "Full Barrel Productions",
+			"uid": "423700c9-1f73-451d-a26f-57bb8a584aa8"
+		},
+		"tags": [
+			{
+				"name": "Restaurant",
+				"slug": "restaurant",
+				"uid": "23f698d3-9957-401c-8805-867cc1b25747"
+			},
+			{
+				"name": "Fast",
+				"slug": "fast",
+				"uid": "272412ea-7f74-4a0b-b49e-2b72750007b7"
+			},
+			{
+				"name": "Trash",
+				"slug": "trash",
+				"uid": "5216be69-da8a-4a67-b2e6-8a79219603b2"
+			},
+			{
+				"name": "Trashcan",
+				"slug": "trashcan",
+				"uid": "95891856-070b-4ef8-8942-fa5bf02fd34a"
+			},
+			{
+				"name": "Food",
+				"slug": "food",
+				"uid": "e17750e5-eb64-4cf7-8f6d-b390b1947b63"
+			},
+			{
+				"name": "Unwrapped",
+				"slug": "unwrapped",
+				"uid": "fd745898-5946-4805-a18b-de388cea1e0e"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "b3a1caf2-6b5f-4553-98ae-2a205ab4a04c",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "unity",
+	"quality": "",
+	"format": "glb",
+	"fileId": "eee49c62-f83a-418f-a2a4-0a70dc5260e5",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "b3a1caf2-6b5f-4553-98ae-2a205ab4a04c",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}

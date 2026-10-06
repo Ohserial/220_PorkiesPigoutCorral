@@ -1,0 +1,172 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Free realistic modular NPC type character. He could be a builder or farmer or just a random chubby guy. Perfectly fit into an urban or countryside environment.</p><p>Face of the model is rigged using 52 ARKit compatible blendshapes.</p><p>Animations video preview inside Unreal Engine you may check <a target=\"_blank\" href=\"https://youtu.be/dJE-3taO6-I\" rel=\"noopener noreferrer nofollow\">here</a>.</p><p>Feel free to contact me for support!</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/082488b5-29ac-4b38-9aa2-405eed0d3cff/0b2261f9-2151-4806-8ccd-c25abbd87ca4.jpg",
+		"publishedAt": "2026-07-10T23:01:23.357999Z",
+		"reviewCount": 7,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/e2612202-18fb-4f00-8dfc-89425138077d/1ff4ebc0-1cdb-4d11-8f08-d16ab0d1d1a3.jpg",
+		"title": "Bubba The Handyman",
+		"uid": "ebc0bd15-ada8-4df0-9401-c2d3d8c551dc",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-zyhgjz2p5ewfu465h6lnqs4d6vguem/backgroundImage/blob-1920x540-5936275000244fd71c1405f6062f44df.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-zyhgjz2p5ewfu465h6lnqs4d6vguem/profileImage/blob-500x500-6f61c57ba60e80735167c71664b8fb42.jpg",
+			"sellerName": "Paul N",
+			"uid": "896d744b-f255-47a0-93fa-ec54105e4d1a"
+		},
+		"tags": [
+			{
+				"name": "Plumber",
+				"slug": "plumber",
+				"uid": "0ded0e66-c4c1-4d9b-ac67-a825024b5f2a"
+			},
+			{
+				"name": "Modular",
+				"slug": "modular",
+				"uid": "3f9ccd49-dae7-45e2-bdb6-9e288855da06"
+			},
+			{
+				"name": "Modern",
+				"slug": "modern",
+				"uid": "4a008392-1a66-40e5-8ba9-ffb361b25ef5"
+			},
+			{
+				"name": "Chubby",
+				"slug": "chubby",
+				"uid": "5834f1a2-b887-4e9f-aba0-12dd569e3a22"
+			},
+			{
+				"name": "Man",
+				"slug": "man",
+				"uid": "5e99785b-683a-42a7-9ecd-f705bf73c752"
+			},
+			{
+				"name": "Factory",
+				"slug": "factory",
+				"uid": "6ffdbb47-ce43-42e1-8f94-5a3f7fed279d"
+			},
+			{
+				"name": "Facial",
+				"slug": "facial",
+				"uid": "90544d56-b3cc-4324-aa25-ce7b9fdc071c"
+			},
+			{
+				"name": "Npc",
+				"slug": "npc",
+				"uid": "90d18fed-cb99-4f6f-813e-693cbb1e774c"
+			},
+			{
+				"name": "Countryside",
+				"slug": "countryside",
+				"uid": "92bf4863-a803-42cd-adb1-32d3ae67c6bf"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Fat",
+				"slug": "fat",
+				"uid": "a57d4165-e650-46f3-acf7-10151f4b17a0"
+			},
+			{
+				"name": "Worker",
+				"slug": "worker",
+				"uid": "a5bf74c0-9e3f-42f8-8b3a-697a580a67e8"
+			},
+			{
+				"name": "Urban",
+				"slug": "urban",
+				"uid": "a689898c-31ae-4d96-8b43-45002335d552"
+			},
+			{
+				"name": "Handyman",
+				"slug": "handyman",
+				"uid": "a6e13396-77ae-407f-a37c-0ab9331d5351"
+			},
+			{
+				"name": "Farm",
+				"slug": "farm",
+				"uid": "d24304ec-e02e-44c8-a23d-126b9cd3c715"
+			},
+			{
+				"name": "Builder",
+				"slug": "builder",
+				"uid": "d938cdfe-e233-4440-a585-326756b28961"
+			},
+			{
+				"name": "Redneck",
+				"slug": "redneck",
+				"uid": "df5fde9a-b87b-4596-a4bd-51f72d4458e5"
+			},
+			{
+				"name": "Character",
+				"slug": "character",
+				"uid": "f07e8c06-66ed-4396-81cf-108f0afcb6d6"
+			}
+		],
+		"category":
+		{
+			"name": "Humans",
+			"path": "characters-creatures/humans",
+			"slug": "characters-creatures--humans",
+			"uid": "0a4f7590-4376-400b-a6e4-c7a658cbab47"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Unreal Engine",
+					"groupName": "Game Engine Formats",
+					"code": "unreal-engine",
+					"icon": "unreal-engine",
+					"extensions": [
+						"uasset",
+						"uproject",
+						"uplugin"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unity",
+					"groupName": "Game Engine Formats",
+					"code": "unity",
+					"icon": "unity",
+					"extensions": [
+						"unitypackage"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "529bdaa9-0772-4371-87e0-02957bca32b3",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "unity",
+	"fileId": "5626c14a-c880-492c-99f4-424f7b5566f6",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "529bdaa9-0772-4371-87e0-02957bca32b3",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

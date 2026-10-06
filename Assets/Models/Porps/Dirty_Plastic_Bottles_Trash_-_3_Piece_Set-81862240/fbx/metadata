@@ -1,0 +1,132 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Introducing crumpled and dirty plastic bottles</p>\n<p><strong>Includes:</strong></p>\n<ul>\n<li>Three different sizes of crumpled plastic bottles</li>\n</ul>\n<p><strong>For support or other information please send us an e-mail at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\">info@sunbox.games</a>\"&gt;<a target=\"_self\" rel=\"noopener noreferrer nofollow\">info@sunbox.games</a></strong></p>\n<p>Check out our other work at <strong>sunbox.games</strong></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/ae1cf1b0-9584-4d2b-a01d-8051fd5a35fd/a3c4b034-7649-4d39-bdbf-58803580901b.jpeg",
+		"publishedAt": "2024-10-01T19:18:31.601037Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/f8b57e8d-b5e0-488b-9a7b-1afdaa8365cb/e5d251e2-483c-4afe-99d7-e48a3161747f.jpeg",
+		"title": "Dirty Plastic Bottles Trash - 3 Piece Set",
+		"uid": "81862240-c488-410d-844c-4e92400766a5",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Sunbox Games",
+			"uid": "af3c7eab-8142-4287-bf6c-f8699edb3f86"
+		},
+		"tags": [
+			{
+				"name": "Recycle",
+				"slug": "recycle",
+				"uid": "35f711e5-167a-46cc-a123-b6911fe1859c"
+			},
+			{
+				"name": "Litter",
+				"slug": "litter",
+				"uid": "4b8ef843-5c10-46ef-a9f7-5ffde87f0004"
+			},
+			{
+				"name": "Plastic",
+				"slug": "plastic",
+				"uid": "51c4ad44-f74d-4552-bcd5-1e3b631f4107"
+			},
+			{
+				"name": "Trash",
+				"slug": "trash",
+				"uid": "5216be69-da8a-4a67-b2e6-8a79219603b2"
+			},
+			{
+				"name": "Dirty",
+				"slug": "dirty",
+				"uid": "54b617d2-d7e9-439d-9bd8-2787675a47e3"
+			},
+			{
+				"name": "Empty",
+				"slug": "empty",
+				"uid": "57b6f7c8-ace9-426e-9007-ca0b25f93a22"
+			},
+			{
+				"name": "Garbage",
+				"slug": "garbage",
+				"uid": "76506ff7-bbdc-4aec-9a1b-2691cc7536e6"
+			},
+			{
+				"name": "Waste",
+				"slug": "waste",
+				"uid": "9ec0b449-6912-4b30-be02-9d1e6967af19"
+			},
+			{
+				"name": "Bottle",
+				"slug": "bottle",
+				"uid": "bea546f4-1796-4a98-aacb-8d5ac0909bd1"
+			},
+			{
+				"name": "Crumpled",
+				"slug": "crumpled",
+				"uid": "f5020287-46bc-4ab0-9185-c7d89d023f1a"
+			}
+		],
+		"category":
+		{
+			"name": "Art & Statues",
+			"path": "objects-decor/art-statues",
+			"slug": "objects-decor--art-statues",
+			"uid": "b2043d1b-0579-419a-a99e-5fbffc8a21c5"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "d70b3dc3-5441-43fc-aa73-59aa75a383d0",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

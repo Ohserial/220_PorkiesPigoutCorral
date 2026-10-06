@@ -1,0 +1,104 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 32768 px/m</p><p><strong>Scan Area:</strong> 0.25x0.25 m</p><p><strong>Maps:</strong> Gloss Roughness Mask</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/1d316ea7-43d1-47f5-b254-9a7ef64053e9/d8fbf277-a04e-47a6-8604-ec82c0868eb8.jpeg",
+		"publishedAt": "2024-10-14T08:36:18.430091Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/6d6436ff-b6e7-4131-8286-cb69a6af2ddd/cc65486d-d6d6-40cb-8940-7b40c17e0685.jpeg",
+		"title": "Stains",
+		"uid": "1e9c3e08-7b4a-46b2-a7ed-2a3a6f50e89a",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Stain",
+				"slug": "stain",
+				"uid": "4d3cc856-559e-417a-b6d1-dff74d381e71"
+			},
+			{
+				"name": "Dirt",
+				"slug": "dirt",
+				"uid": "afb8dbdd-8c6c-44d6-a69b-9197f4a84963"
+			}
+		],
+		"category":
+		{
+			"name": "Stain",
+			"path": "damage-grunge/stain",
+			"slug": "damage-grunge--stain",
+			"uid": "290ff4bc-39f6-4063-ab99-5fc489c41864"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Image",
+					"groupName": "",
+					"code": "image",
+					"icon": "cube",
+					"extensions": [
+						"jpg",
+						"jpeg",
+						"png"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "gltf",
+	"fileId": "0b128356-b331-4973-ba7c-af6ffd8a6359",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

@@ -6,6 +6,7 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
+.idea/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -67,6 +68,8 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 *.meta
+*.fbx.meta
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt

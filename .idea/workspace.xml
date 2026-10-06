@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/Asphalt.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_Metallic.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_Normal-ogl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_albedo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_ao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/Asphalt/pebbled_asphalt_preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Demo/DemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Demo/DemoSceneSettings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_04.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_05.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_06.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_07.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_08.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_09.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_10.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_11.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_12.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_13.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_14.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_15.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_16.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_17.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_18.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_19.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_20.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_21.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_22.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_23.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_24.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_25.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_26.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_27.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_28.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_29.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Dirt/Dirt_30.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_04.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_05.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_06.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_07.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_08.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_09.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Materials/Grass/Grass_10.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_01/Dirt_01_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_02/Dirt_02_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_02/Dirt_02_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_02/Dirt_02_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_02/Dirt_02_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_02/Dirt_02_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_03/Dirt_03_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_03/Dirt_03_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_03/Dirt_03_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_03/Dirt_03_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_03/Dirt_03_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_04/Dirt_04_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_04/Dirt_04_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_04/Dirt_04_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_04/Dirt_04_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_04/Dirt_04_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_05/Dirt_05_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_05/Dirt_05_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_05/Dirt_05_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_05/Dirt_05_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_05/Dirt_05_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_06/Dirt_06_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_07/Dirt_07_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_07/Dirt_07_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_07/Dirt_07_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_07/Dirt_07_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_07/Dirt_07_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_08/Dirt_08_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_08/Dirt_08_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_08/Dirt_08_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_08/Dirt_08_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_08/Dirt_08_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_09/Dirt_09_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_09/Dirt_09_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_09/Dirt_09_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_09/Dirt_09_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_09/Dirt_09_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_10/Dirt_10_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_10/Dirt_10_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_10/Dirt_10_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_10/Dirt_10_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_10/Dirt_10_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_11/Dirt_11_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_11/Dirt_11_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_11/Dirt_11_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_11/Dirt_11_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_11/Dirt_11_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_12/Dirt_12_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_12/Dirt_12_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_12/Dirt_12_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_12/Dirt_12_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_12/Dirt_12_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_13/Dirt_13_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_13/Dirt_13_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_13/Dirt_13_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_13/Dirt_13_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_13/Dirt_13_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_14/Dirt_14_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_14/Dirt_14_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_14/Dirt_14_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_14/Dirt_14_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_14/Dirt_14_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_15/Dirt_15_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_15/Dirt_15_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_15/Dirt_15_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_15/Dirt_15_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_15/Dirt_15_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_16/Dirt_16_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_16/Dirt_16_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_16/Dirt_16_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_16/Dirt_16_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_16/Dirt_16_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_17/Dirt_17_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_17/Dirt_17_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_17/Dirt_17_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_17/Dirt_17_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_17/Dirt_17_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_18/Dirt_18_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_18/Dirt_18_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_18/Dirt_18_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_18/Dirt_18_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_18/Dirt_18_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_19/Dirt_19_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_19/Dirt_19_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_19/Dirt_19_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_19/Dirt_19_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_19/Dirt_19_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_20/Dirt_20_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_20/Dirt_20_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_20/Dirt_20_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_20/Dirt_20_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_20/Dirt_20_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_21/Dirt_21_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_21/Dirt_21_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_21/Dirt_21_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_21/Dirt_21_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_21/Dirt_21_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_22/Dirt_22_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_22/Dirt_22_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_22/Dirt_22_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_22/Dirt_22_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_22/Dirt_22_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_23/Dirt_23_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_23/Dirt_23_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_23/Dirt_23_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_23/Dirt_23_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_23/Dirt_23_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_24/Dirt_24_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_24/Dirt_24_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_24/Dirt_24_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_24/Dirt_24_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_24/Dirt_24_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_25/Dirt_25_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_25/Dirt_25_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_25/Dirt_25_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_25/Dirt_25_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_25/Dirt_25_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_26/Dirt_26_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_26/Dirt_26_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_26/Dirt_26_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_26/Dirt_26_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_26/Dirt_26_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_27/Dirt_27_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_27/Dirt_27_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_27/Dirt_27_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_27/Dirt_27_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_27/Dirt_27_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_28/Dirt_28_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_28/Dirt_28_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_28/Dirt_28_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_28/Dirt_28_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_28/Dirt_28_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_29/Dirt_29_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_29/Dirt_29_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_29/Dirt_29_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_29/Dirt_29_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_29/Dirt_29_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_30/Dirt_30_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_30/Dirt_30_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_30/Dirt_30_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_30/Dirt_30_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Dirt_30/Dirt_30_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_01/Grass_01_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_01/Grass_01_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_01/Grass_01_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_01/Grass_01_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_01/Grass_01_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_02/Grass_02_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_02/Grass_02_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_02/Grass_02_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_02/Grass_02_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_02/Grass_02_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_03/Grass_03_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_03/Grass_03_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_03/Grass_03_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_03/Grass_03_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_03/Grass_03_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_04/Grass_04_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_04/Grass_04_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_04/Grass_04_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_04/Grass_04_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_04/Grass_04_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_05/Grass_05_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_05/Grass_05_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_05/Grass_05_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_05/Grass_05_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_05/Grass_05_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_06/Grass_06_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_06/Grass_06_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_06/Grass_06_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_06/Grass_06_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_06/Grass_06_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_07/Grass_07_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_07/Grass_07_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_07/Grass_07_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_07/Grass_07_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_07/Grass_07_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_08/Grass_08_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_08/Grass_08_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_08/Grass_08_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_08/Grass_08_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_08/Grass_08_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_09/Grass_09_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_09/Grass_09_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_09/Grass_09_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_09/Grass_09_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_09/Grass_09_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_10/Grass_10_Ambient_Occlusion.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_10/Grass_10_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_10/Grass_10_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_10/Grass_10_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Outdoor/PBR Ground Materials #1 [Dirt&amp; Grass]/Textures/Grass_10/Grass_10_Specular.tga" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PlaguedAtom"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ohserial/220_PorkiesPigoutCorral.git",
+    "accountId": "ca1a87d3-0253-4a7c-ade1-b4f8c055155e"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KJ8fHJiquAN1sk4BWKu1SpR3yo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="" />
+      <created>1791264413945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791264413945</updated>
+      <workItem from="1791264415482" duration="1461000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ceiling Tiles">
+      <option name="closed" value="true" />
+      <created>1791264523404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791264523404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Floor Tiles">
+      <option name="closed" value="true" />
+      <created>1791264535315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791264535315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SFX Name Changes">
+      <option name="closed" value="true" />
+      <created>1791264649416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791264649416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Consume">
+      <option name="closed" value="true" />
+      <created>1791265342848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791265342848</updated>
+    </task>
+    <task id="LOCAL-00005" summary="meh">
+      <option name="closed" value="true" />
+      <created>1791265555065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791265555065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Ceiling Tiles" />
+    <MESSAGE value="Floor Tiles" />
+    <MESSAGE value="SFX Name Changes" />
+    <MESSAGE value="Consume" />
+    <MESSAGE value="meh" />
+    <option name="LAST_COMMIT_MESSAGE" value="meh" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

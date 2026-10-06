@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke01.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke02.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke03.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PorkiesAssets.blend" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PukeChunks.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Puke Scripts/Puke.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke01.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke01.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke02.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke02.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke03.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke03.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Booth LEONE version with stains NO SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains NO SUBDIVISION.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Booth LEONE version with stains WITH SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains WITH SUBDIVISION.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Napkin Dispenser.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Table Accoutrement/Napkin Dispenser.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/PorkiesAssets.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/PorkiesAssets.blend.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/PukeChunks.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/PukeChunks.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Sauce Udder.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Fixins Bar/Sauce Udder.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_AO.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_AO.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_BaseColor.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_BaseColor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_Metallic.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_Metallic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_NormalOGL8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_NormalOGL8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_Roughness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_Roughness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/cash register.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Order Counter/cash register.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Puke.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Puke.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TummyAcheManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TummyAcheManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Leone Table RIGHT SIZE HOPEFULLY.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Tables/Leone Table RIGHT SIZE HOPEFULLY.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/better Booth LEONE version with stains WITH SUBDIVISION.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Booths/better Booth LEONE version with stains WITH SUBDIVISION.fbx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791264413945</updated>
       <workItem from="1791264415482" duration="2591000" />
-      <workItem from="1791295473310" duration="3501000" />
+      <workItem from="1791295473310" duration="3820000" />
     </task>
     <task id="LOCAL-00001" summary="Ceiling Tiles">
       <option name="closed" value="true" />
@@ -159,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791297257147</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Organizing the goods">
+      <option name="closed" value="true" />
+      <created>1791299313518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791299313518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +167,8 @@
     <MESSAGE value="mah" />
     <MESSAGE value="ahhhh" />
     <MESSAGE value="EJS Resturant Grayboxed" />
-    <option name="LAST_COMMIT_MESSAGE" value="EJS Resturant Grayboxed" />
+    <MESSAGE value="Organizing the goods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizing the goods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

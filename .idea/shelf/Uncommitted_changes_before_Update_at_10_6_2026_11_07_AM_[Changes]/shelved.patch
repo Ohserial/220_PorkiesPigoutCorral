@@ -1,0 +1,1418 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1325e478-0946-405b-a2c4-384b413f4d49\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;PlaguedAtom&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Ohserial/220_PorkiesPigoutCorral.git&quot;,\r\n    &quot;accountId&quot;: &quot;ca1a87d3-0253-4a7c-ade1-b4f8c055155e&quot;\r\n  }\r\n}</component>\r\n  <component name=\"MetaFilesCheckinStateConfiguration\" checkMetaFiles=\"true\" />\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3KJ8fHJiquAN1sk4BWKu1SpR3yo\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1325e478-0946-405b-a2c4-384b413f4d49\" name=\"Changes\" comment=\"\" />\r\n      <created>1791264413945</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1791264413945</updated>\r\n      <workItem from=\"1791264415482\" duration=\"2591000\" />\r\n      <workItem from=\"1791295473310\" duration=\"1410000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Ceiling Tiles\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791264523404</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791264523404</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Floor Tiles\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791264535315</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791264535315</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"SFX Name Changes\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791264649416</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791264649416</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Consume\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791265342848</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791265342848</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"meh\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791265555065</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791265555065</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"mah\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791266151843</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791266151843</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"ahhhh\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1791269668824</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1791269668824</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityCheckinConfiguration\" checkUnsavedScenes=\"true\" />\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"false\" />\r\n  <component name=\"UnityProjectDiscoverer\">\r\n    <option name=\"unityProjectFolder\" value=\"true\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n    <MESSAGE value=\"Ceiling Tiles\" />\r\n    <MESSAGE value=\"Floor Tiles\" />\r\n    <MESSAGE value=\"SFX Name Changes\" />\r\n    <MESSAGE value=\"Consume\" />\r\n    <MESSAGE value=\"meh\" />\r\n    <MESSAGE value=\"mah\" />\r\n    <MESSAGE value=\"ahhhh\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ahhhh\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <breakpoint enabled=\"true\" type=\"DotNet_Exception_Breakpoints\">\r\n          <properties exception=\"System.OperationCanceledException\" breakIfHandledByOtherCode=\"false\" displayValue=\"System.OperationCanceledException\" />\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </breakpoint>\r\n        <breakpoint enabled=\"true\" type=\"DotNet_Exception_Breakpoints\">\r\n          <properties exception=\"System.Threading.Tasks.TaskCanceledException\" breakIfHandledByOtherCode=\"false\" displayValue=\"System.Threading.Tasks.TaskCanceledException\" />\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </breakpoint>\r\n        <breakpoint enabled=\"true\" type=\"DotNet_Exception_Breakpoints\">\r\n          <properties exception=\"System.Threading.ThreadAbortException\" breakIfHandledByOtherCode=\"false\" displayValue=\"System.Threading.ThreadAbortException\" />\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ b/.idea/workspace.xml	(date 1791299080199)
+@@ -5,7 +5,40 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke01.mat" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke02.mat" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Materials/Puke Chunks/Puke03.mat" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PorkiesAssets.blend" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PukeChunks.fbx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Puke Scripts/Puke.cs" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke01.mat" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke01.mat.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke02.mat" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke02.mat.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke03.mat" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Materials/Puke03.mat.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Booth LEONE version with stains NO SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains NO SUBDIVISION.blend" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Booth LEONE version with stains WITH SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains WITH SUBDIVISION.blend" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Napkin Dispenser.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Table Accoutrement/Napkin Dispenser.blend" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/PorkiesAssets.blend" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/PorkiesAssets.blend.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/PukeChunks.fbx" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/PukeChunks.fbx.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Sauce Udder.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Fixins Bar/Sauce Udder.fbx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet.fbx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet01.mat" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_AO.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_AO.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_BaseColor.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_BaseColor.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_Metallic.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_Metallic.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_NormalOGL8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_NormalOGL8.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/Toilet/Toilet_Roughness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Toilet/Toilet_Roughness.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Models/cash register.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Order Counter/cash register.blend" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Puke.cs" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Puke.cs.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TummyAcheManager.cs" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TummyAcheManager.cs.meta" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -60,7 +93,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1791264413945</updated>
+       <workItem from="1791264415482" duration="2591000" />
+-      <workItem from="1791295473310" duration="1410000" />
++      <workItem from="1791295473310" duration="3501000" />
+     </task>
+     <task id="LOCAL-00001" summary="Ceiling Tiles">
+       <option name="closed" value="true" />
+@@ -118,7 +151,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1791269668824</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="EJS Resturant Grayboxed">
++      <option name="closed" value="true" />
++      <created>1791297257147</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1791297257147</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -149,7 +190,8 @@
+     <MESSAGE value="meh" />
+     <MESSAGE value="mah" />
+     <MESSAGE value="ahhhh" />
+-    <option name="LAST_COMMIT_MESSAGE" value="ahhhh" />
++    <MESSAGE value="EJS Resturant Grayboxed" />
++    <option name="LAST_COMMIT_MESSAGE" value="EJS Resturant Grayboxed" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: Assets/Scripts/Puke.cs.meta
+===================================================================
+diff --git a/Assets/Scripts/Puke.cs.meta b/Assets/Scripts/Puke.cs.meta
+deleted file mode 100644
+--- a/Assets/Scripts/Puke.cs.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,2 +0,0 @@
+-fileFormatVersion: 2
+-guid: dc0bef78e5387884290f0a4fd4a77e07
+\ No newline at end of file
+Index: Assets/Scripts/Puke.cs
+===================================================================
+diff --git a/Assets/Scripts/Puke.cs b/Assets/Scripts/Puke.cs
+deleted file mode 100644
+--- a/Assets/Scripts/Puke.cs	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,39 +0,0 @@
+-using System;
+-using UnityEngine;
+-
+-public class Puke : MonoBehaviour
+-{
+-    private BoxCollider pukeZone;
+-    private GameObject player;
+-    private ParticleSystem pukeSystem;
+-    // when you enter the bathroom, if you've finished your burger, start puking when you enter toilet range
+-    private void Awake()
+-    {
+-        player = this.gameObject;
+-        pukeZone =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
+-        pukeSystem =  player.GetComponent<ParticleSystem>();
+-        
+-    }
+-
+-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+-    void Start()
+-    {
+-        if (player == null) Debug.LogError("No player found");
+-        if (pukeZone == null) Debug.LogError("No Toilet Found");
+-        if (pukeSystem == null) Debug.LogError("No Particle System Found");
+-    }
+-    
+-    private void OnCollisionEnter(Collision other)
+-    {
+-        if (other.collider == pukeZone)
+-        {
+-            ThrowUp();
+-        }
+-    }
+-
+-    private void ThrowUp()
+-    {
+-        Debug.Log("I'm not feeling so good... ");
+-        pukeSystem.Play();
+-    }
+-}
+Index: Assets/Materials/Puke03.mat.meta
+===================================================================
+diff --git a/Assets/Materials/Puke03.mat.meta b/Assets/Materials/Puke03.mat.meta
+deleted file mode 100644
+--- a/Assets/Materials/Puke03.mat.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: a7a02392c8e03e24fafcda45b4845b0f
+-NativeFormatImporter:
+-  externalObjects: {}
+-  mainObjectFileID: 2100000
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Scripts/TummyAcheManager.cs.meta
+===================================================================
+diff --git a/Assets/Scripts/TummyAcheManager.cs.meta b/Assets/Scripts/TummyAcheManager.cs.meta
+deleted file mode 100644
+--- a/Assets/Scripts/TummyAcheManager.cs.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,2 +0,0 @@
+-fileFormatVersion: 2
+-guid: 526c7a0ff8b5e554982b409064e77011
+\ No newline at end of file
+Index: Assets/Scripts/TummyAcheManager.cs
+===================================================================
+diff --git a/Assets/Scripts/TummyAcheManager.cs b/Assets/Scripts/TummyAcheManager.cs
+deleted file mode 100644
+--- a/Assets/Scripts/TummyAcheManager.cs	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,22 +0,0 @@
+-using UnityEngine;
+-
+-public class TummyAcheManager : MonoBehaviour
+-{
+-    
+-    // when you eat the food, start making tummy sounds...
+-    // after a certain amount of time, if you still haven't found the bathroom, noises intensify
+-    // stop noises when you puke
+-    
+-    
+-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+-    void Start()
+-    {
+-        
+-    }
+-
+-    // Update is called once per frame
+-    void Update()
+-    {
+-        
+-    }
+-}
+Index: Assets/Models/PorkiesAssets.blend.meta
+===================================================================
+diff --git a/Assets/Models/PorkiesAssets.blend.meta b/Assets/Models/PorkiesAssets.blend.meta
+deleted file mode 100644
+--- a/Assets/Models/PorkiesAssets.blend.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,110 +0,0 @@
+-fileFormatVersion: 2
+-guid: b135ad977e07cf74096c53c95ba8a35b
+-ModelImporter:
+-  serializedVersion: 24200
+-  internalIDToNameTable: []
+-  externalObjects: {}
+-  materials:
+-    materialImportMode: 2
+-    materialName: 0
+-    materialSearch: 1
+-    materialLocation: 1
+-  animations:
+-    legacyGenerateAnimations: 4
+-    bakeSimulation: 0
+-    resampleCurves: 1
+-    optimizeGameObjects: 0
+-    removeConstantScaleCurves: 0
+-    motionNodeName: 
+-    animationImportErrors: 
+-    animationImportWarnings: 
+-    animationRetargetingWarnings: 
+-    animationDoRetargetingWarnings: 0
+-    importAnimatedCustomProperties: 0
+-    importConstraints: 0
+-    animationCompression: 1
+-    animationRotationError: 0.5
+-    animationPositionError: 0.5
+-    animationScaleError: 0.5
+-    animationWrapMode: 0
+-    extraExposedTransformPaths: []
+-    extraUserProperties: []
+-    clipAnimations: []
+-    isReadable: 0
+-  meshes:
+-    lODScreenPercentages: []
+-    globalScale: 1
+-    meshCompression: 0
+-    addColliders: 0
+-    useSRGBMaterialColor: 1
+-    sortHierarchyByName: 1
+-    importPhysicalCameras: 1
+-    importVisibility: 1
+-    importBlendShapes: 1
+-    importCameras: 1
+-    importLights: 1
+-    nodeNameCollisionStrategy: 1
+-    fileIdsGeneration: 2
+-    swapUVChannels: 0
+-    generateSecondaryUV: 0
+-    useFileUnits: 1
+-    keepQuads: 0
+-    weldVertices: 1
+-    bakeAxisConversion: 0
+-    preserveHierarchy: 0
+-    skinWeightsMode: 0
+-    maxBonesPerVertex: 4
+-    minBoneWeight: 0.001
+-    optimizeBones: 1
+-    generateMeshLods: 0
+-    meshLodGenerationFlags: 0
+-    maximumMeshLod: -1
+-    meshOptimizationFlags: -1
+-    indexFormat: 0
+-    secondaryUVAngleDistortion: 8
+-    secondaryUVAreaDistortion: 15.000001
+-    secondaryUVHardAngle: 88
+-    secondaryUVMarginMethod: 1
+-    secondaryUVMinLightmapResolution: 40
+-    secondaryUVMinObjectScale: 1
+-    secondaryUVPackMargin: 4
+-    useFileScale: 1
+-    strictVertexDataChecks: 0
+-  tangentSpace:
+-    normalSmoothAngle: 60
+-    normalImportMode: 0
+-    tangentImportMode: 3
+-    normalCalculationMode: 4
+-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+-    blendShapeNormalImportMode: 1
+-    normalSmoothingSource: 0
+-  referencedClips: []
+-  importAnimation: 1
+-  humanDescription:
+-    serializedVersion: 3
+-    human: []
+-    skeleton: []
+-    armTwist: 0.5
+-    foreArmTwist: 0.5
+-    upperLegTwist: 0.5
+-    legTwist: 0.5
+-    armStretch: 0.05
+-    legStretch: 0.05
+-    feetSpacing: 0
+-    globalScale: 1
+-    rootMotionBoneName: 
+-    hasTranslationDoF: 0
+-    hasExtraRoot: 0
+-    skeletonHasParents: 1
+-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+-  autoGenerateAvatarMappingIfUnspecified: 1
+-  animationType: 2
+-  humanoidOversampling: 1
+-  avatarSetup: 0
+-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+-  importBlendShapeDeformPercent: 1
+-  remapMaterialsIfMaterialImportModeIsNone: 0
+-  additionalBone: 0
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Materials/Puke02.mat
+===================================================================
+diff --git a/Assets/Materials/Puke02.mat b/Assets/Materials/Puke02.mat
+deleted file mode 100644
+--- a/Assets/Materials/Puke02.mat	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,137 +0,0 @@
+-%YAML 1.1
+-%TAG !u! tag:unity3d.com,2011:
+---- !u!21 &2100000
+-Material:
+-  serializedVersion: 8
+-  m_ObjectHideFlags: 0
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_Name: Puke02
+-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+-  m_Parent: {fileID: 0}
+-  m_ModifiedSerializedProperties: 0
+-  m_ValidKeywords: []
+-  m_InvalidKeywords: []
+-  m_LightmapFlags: 4
+-  m_EnableInstancingVariants: 0
+-  m_DoubleSidedGI: 0
+-  m_CustomRenderQueue: -1
+-  stringTagMap:
+-    RenderType: Opaque
+-  disabledShaderPasses:
+-  - MOTIONVECTORS
+-  m_LockedProperties: 
+-  m_SavedProperties:
+-    serializedVersion: 3
+-    m_TexEnvs:
+-    - _BaseMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _BumpMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailAlbedoMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailMask:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailNormalMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _EmissionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MainTex:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MetallicGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _OcclusionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _ParallaxMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _SpecGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_Lightmaps:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_LightmapsInd:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_ShadowMasks:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    m_Ints: []
+-    m_Floats:
+-    - _AddPrecomputedVelocity: 0
+-    - _AlphaClip: 0
+-    - _AlphaToMask: 0
+-    - _Blend: 0
+-    - _BlendModePreserveSpecular: 1
+-    - _BumpScale: 1
+-    - _ClearCoatMask: 0
+-    - _ClearCoatSmoothness: 0
+-    - _Cull: 2
+-    - _Cutoff: 0.5
+-    - _DetailAlbedoMapScale: 1
+-    - _DetailNormalMapScale: 1
+-    - _DstBlend: 0
+-    - _DstBlendAlpha: 0
+-    - _EnvironmentReflections: 1
+-    - _GlossMapScale: 0
+-    - _Glossiness: 0
+-    - _GlossyReflections: 0
+-    - _Metallic: 0.299
+-    - _OcclusionStrength: 1
+-    - _Parallax: 0.005
+-    - _QueueOffset: 0
+-    - _ReceiveShadows: 1
+-    - _Smoothness: 0.266
+-    - _SmoothnessTextureChannel: 0
+-    - _SpecularHighlights: 1
+-    - _SrcBlend: 1
+-    - _SrcBlendAlpha: 1
+-    - _Surface: 0
+-    - _WorkflowMode: 1
+-    - _XRMotionVectorsPass: 1
+-    - _ZWrite: 1
+-    m_Colors:
+-    - _BaseColor: {r: 0.5031446, g: 0.48378026, b: 0.18828364, a: 1}
+-    - _Color: {r: 0.50314456, g: 0.4837802, b: 0.18828359, a: 1}
+-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+-    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+-  m_BuildTextureStacks: []
+-  m_AllowLocking: 1
+---- !u!114 &8336615234676549575
+-MonoBehaviour:
+-  m_ObjectHideFlags: 11
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_GameObject: {fileID: 0}
+-  m_Enabled: 1
+-  m_EditorHideFlags: 0
+-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+-  m_Name: 
+-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+-  version: 10
+Index: Assets/Materials/Puke03.mat
+===================================================================
+diff --git a/Assets/Materials/Puke03.mat b/Assets/Materials/Puke03.mat
+deleted file mode 100644
+--- a/Assets/Materials/Puke03.mat	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,137 +0,0 @@
+-%YAML 1.1
+-%TAG !u! tag:unity3d.com,2011:
+---- !u!21 &2100000
+-Material:
+-  serializedVersion: 8
+-  m_ObjectHideFlags: 0
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_Name: Puke03
+-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+-  m_Parent: {fileID: 0}
+-  m_ModifiedSerializedProperties: 0
+-  m_ValidKeywords: []
+-  m_InvalidKeywords: []
+-  m_LightmapFlags: 4
+-  m_EnableInstancingVariants: 0
+-  m_DoubleSidedGI: 0
+-  m_CustomRenderQueue: -1
+-  stringTagMap:
+-    RenderType: Opaque
+-  disabledShaderPasses:
+-  - MOTIONVECTORS
+-  m_LockedProperties: 
+-  m_SavedProperties:
+-    serializedVersion: 3
+-    m_TexEnvs:
+-    - _BaseMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _BumpMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailAlbedoMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailMask:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailNormalMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _EmissionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MainTex:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MetallicGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _OcclusionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _ParallaxMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _SpecGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_Lightmaps:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_LightmapsInd:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_ShadowMasks:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    m_Ints: []
+-    m_Floats:
+-    - _AddPrecomputedVelocity: 0
+-    - _AlphaClip: 0
+-    - _AlphaToMask: 0
+-    - _Blend: 0
+-    - _BlendModePreserveSpecular: 1
+-    - _BumpScale: 1
+-    - _ClearCoatMask: 0
+-    - _ClearCoatSmoothness: 0
+-    - _Cull: 2
+-    - _Cutoff: 0.5
+-    - _DetailAlbedoMapScale: 1
+-    - _DetailNormalMapScale: 1
+-    - _DstBlend: 0
+-    - _DstBlendAlpha: 0
+-    - _EnvironmentReflections: 1
+-    - _GlossMapScale: 0
+-    - _Glossiness: 0
+-    - _GlossyReflections: 0
+-    - _Metallic: 0
+-    - _OcclusionStrength: 1
+-    - _Parallax: 0.005
+-    - _QueueOffset: 0
+-    - _ReceiveShadows: 1
+-    - _Smoothness: 0.563
+-    - _SmoothnessTextureChannel: 0
+-    - _SpecularHighlights: 1
+-    - _SrcBlend: 1
+-    - _SrcBlendAlpha: 1
+-    - _Surface: 0
+-    - _WorkflowMode: 1
+-    - _XRMotionVectorsPass: 1
+-    - _ZWrite: 1
+-    m_Colors:
+-    - _BaseColor: {r: 0.74213827, g: 0.73745865, b: 0.20770532, a: 1}
+-    - _Color: {r: 0.74213827, g: 0.73745865, b: 0.20770529, a: 1}
+-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+-    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+-  m_BuildTextureStacks: []
+-  m_AllowLocking: 1
+---- !u!114 &8336615234676549575
+-MonoBehaviour:
+-  m_ObjectHideFlags: 11
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_GameObject: {fileID: 0}
+-  m_Enabled: 1
+-  m_EditorHideFlags: 0
+-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+-  m_Name: 
+-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+-  version: 10
+Index: Assets/Models/PukeChunks.fbx.meta
+===================================================================
+diff --git a/Assets/Models/PukeChunks.fbx.meta b/Assets/Models/PukeChunks.fbx.meta
+deleted file mode 100644
+--- a/Assets/Models/PukeChunks.fbx.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,110 +0,0 @@
+-fileFormatVersion: 2
+-guid: b5254c4b1f4144549bfa4a3c74171970
+-ModelImporter:
+-  serializedVersion: 24200
+-  internalIDToNameTable: []
+-  externalObjects: {}
+-  materials:
+-    materialImportMode: 2
+-    materialName: 0
+-    materialSearch: 1
+-    materialLocation: 1
+-  animations:
+-    legacyGenerateAnimations: 4
+-    bakeSimulation: 0
+-    resampleCurves: 1
+-    optimizeGameObjects: 0
+-    removeConstantScaleCurves: 0
+-    motionNodeName: 
+-    animationImportErrors: 
+-    animationImportWarnings: 
+-    animationRetargetingWarnings: 
+-    animationDoRetargetingWarnings: 0
+-    importAnimatedCustomProperties: 0
+-    importConstraints: 0
+-    animationCompression: 1
+-    animationRotationError: 0.5
+-    animationPositionError: 0.5
+-    animationScaleError: 0.5
+-    animationWrapMode: 0
+-    extraExposedTransformPaths: []
+-    extraUserProperties: []
+-    clipAnimations: []
+-    isReadable: 0
+-  meshes:
+-    lODScreenPercentages: []
+-    globalScale: 1
+-    meshCompression: 0
+-    addColliders: 0
+-    useSRGBMaterialColor: 1
+-    sortHierarchyByName: 1
+-    importPhysicalCameras: 1
+-    importVisibility: 1
+-    importBlendShapes: 1
+-    importCameras: 1
+-    importLights: 1
+-    nodeNameCollisionStrategy: 1
+-    fileIdsGeneration: 2
+-    swapUVChannels: 0
+-    generateSecondaryUV: 0
+-    useFileUnits: 1
+-    keepQuads: 0
+-    weldVertices: 1
+-    bakeAxisConversion: 0
+-    preserveHierarchy: 0
+-    skinWeightsMode: 0
+-    maxBonesPerVertex: 4
+-    minBoneWeight: 0.001
+-    optimizeBones: 1
+-    generateMeshLods: 0
+-    meshLodGenerationFlags: 0
+-    maximumMeshLod: -1
+-    meshOptimizationFlags: -1
+-    indexFormat: 0
+-    secondaryUVAngleDistortion: 8
+-    secondaryUVAreaDistortion: 15.000001
+-    secondaryUVHardAngle: 88
+-    secondaryUVMarginMethod: 1
+-    secondaryUVMinLightmapResolution: 40
+-    secondaryUVMinObjectScale: 1
+-    secondaryUVPackMargin: 4
+-    useFileScale: 1
+-    strictVertexDataChecks: 0
+-  tangentSpace:
+-    normalSmoothAngle: 60
+-    normalImportMode: 0
+-    tangentImportMode: 3
+-    normalCalculationMode: 4
+-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+-    blendShapeNormalImportMode: 1
+-    normalSmoothingSource: 0
+-  referencedClips: []
+-  importAnimation: 1
+-  humanDescription:
+-    serializedVersion: 3
+-    human: []
+-    skeleton: []
+-    armTwist: 0.5
+-    foreArmTwist: 0.5
+-    upperLegTwist: 0.5
+-    legTwist: 0.5
+-    armStretch: 0.05
+-    legStretch: 0.05
+-    feetSpacing: 0
+-    globalScale: 1
+-    rootMotionBoneName: 
+-    hasTranslationDoF: 0
+-    hasExtraRoot: 0
+-    skeletonHasParents: 1
+-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+-  autoGenerateAvatarMappingIfUnspecified: 1
+-  animationType: 2
+-  humanoidOversampling: 1
+-  avatarSetup: 0
+-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+-  importBlendShapeDeformPercent: 1
+-  remapMaterialsIfMaterialImportModeIsNone: 0
+-  additionalBone: 0
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Materials/Puke02.mat.meta
+===================================================================
+diff --git a/Assets/Materials/Puke02.mat.meta b/Assets/Materials/Puke02.mat.meta
+deleted file mode 100644
+--- a/Assets/Materials/Puke02.mat.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: a1b9634589eec664d9d3d8889c803bd3
+-NativeFormatImporter:
+-  externalObjects: {}
+-  mainObjectFileID: 2100000
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Materials/Puke01.mat
+===================================================================
+diff --git a/Assets/Materials/Puke01.mat b/Assets/Materials/Puke01.mat
+deleted file mode 100644
+--- a/Assets/Materials/Puke01.mat	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,137 +0,0 @@
+-%YAML 1.1
+-%TAG !u! tag:unity3d.com,2011:
+---- !u!21 &2100000
+-Material:
+-  serializedVersion: 8
+-  m_ObjectHideFlags: 0
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_Name: Puke01
+-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+-  m_Parent: {fileID: 0}
+-  m_ModifiedSerializedProperties: 0
+-  m_ValidKeywords: []
+-  m_InvalidKeywords: []
+-  m_LightmapFlags: 4
+-  m_EnableInstancingVariants: 0
+-  m_DoubleSidedGI: 0
+-  m_CustomRenderQueue: -1
+-  stringTagMap:
+-    RenderType: Opaque
+-  disabledShaderPasses:
+-  - MOTIONVECTORS
+-  m_LockedProperties: 
+-  m_SavedProperties:
+-    serializedVersion: 3
+-    m_TexEnvs:
+-    - _BaseMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _BumpMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailAlbedoMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailMask:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _DetailNormalMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _EmissionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MainTex:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _MetallicGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _OcclusionMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _ParallaxMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - _SpecGlossMap:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_Lightmaps:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_LightmapsInd:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    - unity_ShadowMasks:
+-        m_Texture: {fileID: 0}
+-        m_Scale: {x: 1, y: 1}
+-        m_Offset: {x: 0, y: 0}
+-    m_Ints: []
+-    m_Floats:
+-    - _AddPrecomputedVelocity: 0
+-    - _AlphaClip: 0
+-    - _AlphaToMask: 0
+-    - _Blend: 0
+-    - _BlendModePreserveSpecular: 1
+-    - _BumpScale: 1
+-    - _ClearCoatMask: 0
+-    - _ClearCoatSmoothness: 0
+-    - _Cull: 2
+-    - _Cutoff: 0.5
+-    - _DetailAlbedoMapScale: 1
+-    - _DetailNormalMapScale: 1
+-    - _DstBlend: 0
+-    - _DstBlendAlpha: 0
+-    - _EnvironmentReflections: 1
+-    - _GlossMapScale: 0
+-    - _Glossiness: 0
+-    - _GlossyReflections: 0
+-    - _Metallic: 0.122
+-    - _OcclusionStrength: 1
+-    - _Parallax: 0.005
+-    - _QueueOffset: 0
+-    - _ReceiveShadows: 1
+-    - _Smoothness: 0.452
+-    - _SmoothnessTextureChannel: 0
+-    - _SpecularHighlights: 1
+-    - _SrcBlend: 1
+-    - _SrcBlendAlpha: 1
+-    - _Surface: 0
+-    - _WorkflowMode: 1
+-    - _XRMotionVectorsPass: 1
+-    - _ZWrite: 1
+-    m_Colors:
+-    - _BaseColor: {r: 0.5549763, g: 0.70440245, b: 0.22372524, a: 1}
+-    - _Color: {r: 0.5549763, g: 0.70440245, b: 0.2237252, a: 1}
+-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+-    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+-  m_BuildTextureStacks: []
+-  m_AllowLocking: 1
+---- !u!114 &8336615234676549575
+-MonoBehaviour:
+-  m_ObjectHideFlags: 11
+-  m_CorrespondingSourceObject: {fileID: 0}
+-  m_PrefabInstance: {fileID: 0}
+-  m_PrefabAsset: {fileID: 0}
+-  m_GameObject: {fileID: 0}
+-  m_Enabled: 1
+-  m_EditorHideFlags: 0
+-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+-  m_Name: 
+-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+-  version: 10
+Index: Assets/Materials/Puke01.mat.meta
+===================================================================
+diff --git a/Assets/Materials/Puke01.mat.meta b/Assets/Materials/Puke01.mat.meta
+deleted file mode 100644
+--- a/Assets/Materials/Puke01.mat.meta	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
++++ /dev/null	(revision 2f2e8307bb0feb8b77d9ae2cd045c067e3d40f94)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 3ed535eb1402f0d49ac774f68fcc504b
+-NativeFormatImporter:
+-  externalObjects: {}
+-  mainObjectFileID: 2100000
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Materials/Puke Chunks/Puke02.mat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Materials/Puke Chunks/Puke02.mat b/Assets/Materials/Puke Chunks/Puke02.mat
+new file mode 100644
+--- /dev/null	(date 1791169862698)
++++ b/Assets/Materials/Puke Chunks/Puke02.mat	(date 1791169862698)
+@@ -0,0 +1,137 @@
++%YAML 1.1
++%TAG !u! tag:unity3d.com,2011:
++--- !u!21 &2100000
++Material:
++  serializedVersion: 8
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_Name: Puke02
++  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
++  m_Parent: {fileID: 0}
++  m_ModifiedSerializedProperties: 0
++  m_ValidKeywords: []
++  m_InvalidKeywords: []
++  m_LightmapFlags: 4
++  m_EnableInstancingVariants: 0
++  m_DoubleSidedGI: 0
++  m_CustomRenderQueue: -1
++  stringTagMap:
++    RenderType: Opaque
++  disabledShaderPasses:
++  - MOTIONVECTORS
++  m_LockedProperties: 
++  m_SavedProperties:
++    serializedVersion: 3
++    m_TexEnvs:
++    - _BaseMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _BumpMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailAlbedoMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailMask:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailNormalMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _EmissionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MainTex:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MetallicGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _OcclusionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _ParallaxMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _SpecGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_Lightmaps:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_LightmapsInd:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_ShadowMasks:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    m_Ints: []
++    m_Floats:
++    - _AddPrecomputedVelocity: 0
++    - _AlphaClip: 0
++    - _AlphaToMask: 0
++    - _Blend: 0
++    - _BlendModePreserveSpecular: 1
++    - _BumpScale: 1
++    - _ClearCoatMask: 0
++    - _ClearCoatSmoothness: 0
++    - _Cull: 2
++    - _Cutoff: 0.5
++    - _DetailAlbedoMapScale: 1
++    - _DetailNormalMapScale: 1
++    - _DstBlend: 0
++    - _DstBlendAlpha: 0
++    - _EnvironmentReflections: 1
++    - _GlossMapScale: 0
++    - _Glossiness: 0
++    - _GlossyReflections: 0
++    - _Metallic: 0.299
++    - _OcclusionStrength: 1
++    - _Parallax: 0.005
++    - _QueueOffset: 0
++    - _ReceiveShadows: 1
++    - _Smoothness: 0.266
++    - _SmoothnessTextureChannel: 0
++    - _SpecularHighlights: 1
++    - _SrcBlend: 1
++    - _SrcBlendAlpha: 1
++    - _Surface: 0
++    - _WorkflowMode: 1
++    - _XRMotionVectorsPass: 1
++    - _ZWrite: 1
++    m_Colors:
++    - _BaseColor: {r: 0.5031446, g: 0.48378026, b: 0.18828364, a: 1}
++    - _Color: {r: 0.50314456, g: 0.4837802, b: 0.18828359, a: 1}
++    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
++    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
++  m_BuildTextureStacks: []
++  m_AllowLocking: 1
++--- !u!114 &8336615234676549575
++MonoBehaviour:
++  m_ObjectHideFlags: 11
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 0}
++  m_Enabled: 1
++  m_EditorHideFlags: 0
++  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
++  m_Name: 
++  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
++  version: 10
+Index: Assets/Materials/Puke Chunks/Puke01.mat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Materials/Puke Chunks/Puke01.mat b/Assets/Materials/Puke Chunks/Puke01.mat
+new file mode 100644
+--- /dev/null	(date 1791169862697)
++++ b/Assets/Materials/Puke Chunks/Puke01.mat	(date 1791169862697)
+@@ -0,0 +1,137 @@
++%YAML 1.1
++%TAG !u! tag:unity3d.com,2011:
++--- !u!21 &2100000
++Material:
++  serializedVersion: 8
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_Name: Puke01
++  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
++  m_Parent: {fileID: 0}
++  m_ModifiedSerializedProperties: 0
++  m_ValidKeywords: []
++  m_InvalidKeywords: []
++  m_LightmapFlags: 4
++  m_EnableInstancingVariants: 0
++  m_DoubleSidedGI: 0
++  m_CustomRenderQueue: -1
++  stringTagMap:
++    RenderType: Opaque
++  disabledShaderPasses:
++  - MOTIONVECTORS
++  m_LockedProperties: 
++  m_SavedProperties:
++    serializedVersion: 3
++    m_TexEnvs:
++    - _BaseMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _BumpMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailAlbedoMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailMask:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailNormalMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _EmissionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MainTex:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MetallicGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _OcclusionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _ParallaxMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _SpecGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_Lightmaps:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_LightmapsInd:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_ShadowMasks:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    m_Ints: []
++    m_Floats:
++    - _AddPrecomputedVelocity: 0
++    - _AlphaClip: 0
++    - _AlphaToMask: 0
++    - _Blend: 0
++    - _BlendModePreserveSpecular: 1
++    - _BumpScale: 1
++    - _ClearCoatMask: 0
++    - _ClearCoatSmoothness: 0
++    - _Cull: 2
++    - _Cutoff: 0.5
++    - _DetailAlbedoMapScale: 1
++    - _DetailNormalMapScale: 1
++    - _DstBlend: 0
++    - _DstBlendAlpha: 0
++    - _EnvironmentReflections: 1
++    - _GlossMapScale: 0
++    - _Glossiness: 0
++    - _GlossyReflections: 0
++    - _Metallic: 0.122
++    - _OcclusionStrength: 1
++    - _Parallax: 0.005
++    - _QueueOffset: 0
++    - _ReceiveShadows: 1
++    - _Smoothness: 0.452
++    - _SmoothnessTextureChannel: 0
++    - _SpecularHighlights: 1
++    - _SrcBlend: 1
++    - _SrcBlendAlpha: 1
++    - _Surface: 0
++    - _WorkflowMode: 1
++    - _XRMotionVectorsPass: 1
++    - _ZWrite: 1
++    m_Colors:
++    - _BaseColor: {r: 0.5549763, g: 0.70440245, b: 0.22372524, a: 1}
++    - _Color: {r: 0.5549763, g: 0.70440245, b: 0.2237252, a: 1}
++    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
++    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
++  m_BuildTextureStacks: []
++  m_AllowLocking: 1
++--- !u!114 &8336615234676549575
++MonoBehaviour:
++  m_ObjectHideFlags: 11
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 0}
++  m_Enabled: 1
++  m_EditorHideFlags: 0
++  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
++  m_Name: 
++  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
++  version: 10
+Index: Assets/Materials/Puke Chunks/Puke03.mat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Materials/Puke Chunks/Puke03.mat b/Assets/Materials/Puke Chunks/Puke03.mat
+new file mode 100644
+--- /dev/null	(date 1791169862700)
++++ b/Assets/Materials/Puke Chunks/Puke03.mat	(date 1791169862700)
+@@ -0,0 +1,137 @@
++%YAML 1.1
++%TAG !u! tag:unity3d.com,2011:
++--- !u!21 &2100000
++Material:
++  serializedVersion: 8
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_Name: Puke03
++  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
++  m_Parent: {fileID: 0}
++  m_ModifiedSerializedProperties: 0
++  m_ValidKeywords: []
++  m_InvalidKeywords: []
++  m_LightmapFlags: 4
++  m_EnableInstancingVariants: 0
++  m_DoubleSidedGI: 0
++  m_CustomRenderQueue: -1
++  stringTagMap:
++    RenderType: Opaque
++  disabledShaderPasses:
++  - MOTIONVECTORS
++  m_LockedProperties: 
++  m_SavedProperties:
++    serializedVersion: 3
++    m_TexEnvs:
++    - _BaseMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _BumpMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailAlbedoMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailMask:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _DetailNormalMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _EmissionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MainTex:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _MetallicGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _OcclusionMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _ParallaxMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - _SpecGlossMap:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_Lightmaps:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_LightmapsInd:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    - unity_ShadowMasks:
++        m_Texture: {fileID: 0}
++        m_Scale: {x: 1, y: 1}
++        m_Offset: {x: 0, y: 0}
++    m_Ints: []
++    m_Floats:
++    - _AddPrecomputedVelocity: 0
++    - _AlphaClip: 0
++    - _AlphaToMask: 0
++    - _Blend: 0
++    - _BlendModePreserveSpecular: 1
++    - _BumpScale: 1
++    - _ClearCoatMask: 0
++    - _ClearCoatSmoothness: 0
++    - _Cull: 2
++    - _Cutoff: 0.5
++    - _DetailAlbedoMapScale: 1
++    - _DetailNormalMapScale: 1
++    - _DstBlend: 0
++    - _DstBlendAlpha: 0
++    - _EnvironmentReflections: 1
++    - _GlossMapScale: 0
++    - _Glossiness: 0
++    - _GlossyReflections: 0
++    - _Metallic: 0
++    - _OcclusionStrength: 1
++    - _Parallax: 0.005
++    - _QueueOffset: 0
++    - _ReceiveShadows: 1
++    - _Smoothness: 0.563
++    - _SmoothnessTextureChannel: 0
++    - _SpecularHighlights: 1
++    - _SrcBlend: 1
++    - _SrcBlendAlpha: 1
++    - _Surface: 0
++    - _WorkflowMode: 1
++    - _XRMotionVectorsPass: 1
++    - _ZWrite: 1
++    m_Colors:
++    - _BaseColor: {r: 0.74213827, g: 0.73745865, b: 0.20770532, a: 1}
++    - _Color: {r: 0.74213827, g: 0.73745865, b: 0.20770529, a: 1}
++    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
++    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
++  m_BuildTextureStacks: []
++  m_AllowLocking: 1
++--- !u!114 &8336615234676549575
++MonoBehaviour:
++  m_ObjectHideFlags: 11
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 0}
++  m_Enabled: 1
++  m_EditorHideFlags: 0
++  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
++  m_Name: 
++  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
++  version: 10
+Index: Assets/Scripts/Puke Scripts/Puke.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Scripts/Puke Scripts/Puke.cs b/Assets/Scripts/Puke Scripts/Puke.cs
+new file mode 100644
+--- /dev/null	(date 1791297647259)
++++ b/Assets/Scripts/Puke Scripts/Puke.cs	(date 1791297647259)
+@@ -0,0 +1,39 @@
++using System;
++using UnityEngine;
++
++public class Puke : MonoBehaviour
++{
++    private BoxCollider pukeZone;
++    private GameObject player;
++    private ParticleSystem pukeSystem;
++    // when you enter the bathroom, if you've finished your burger, start puking when you enter toilet range
++    private void Awake()
++    {
++        player = this.gameObject;
++        pukeZone =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
++        pukeSystem =  player.GetComponent<ParticleSystem>();
++        
++    }
++
++    // Start is called once before the first execution of Update after the MonoBehaviour is created
++    void Start()
++    {
++        if (player == null) Debug.LogError("No player found");
++        if (pukeZone == null) Debug.LogError("No Toilet Found");
++        if (pukeSystem == null) Debug.LogError("No Particle System Found");
++    }
++    
++    private void OnCollisionEnter(Collision other)
++    {
++        if (other.collider == pukeZone)
++        {
++            ThrowUp();
++        }
++    }
++
++    private void ThrowUp()
++    {
++        Debug.Log("I'm not feeling so good... ");
++        pukeSystem.Play();
++    }
++}
+Index: Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs b/Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs
+new file mode 100644
+--- /dev/null	(date 1791169863007)
++++ b/Assets/Scripts/Tummy Ache Scripts/TummyAcheManager.cs	(date 1791169863007)
+@@ -0,0 +1,22 @@
++using UnityEngine;
++
++public class TummyAcheManager : MonoBehaviour
++{
++    
++    // when you eat the food, start making tummy sounds...
++    // after a certain amount of time, if you still haven't found the bathroom, noises intensify
++    // stop noises when you puke
++    
++    
++    // Start is called once before the first execution of Update after the MonoBehaviour is created
++    void Start()
++    {
++        
++    }
++
++    // Update is called once per frame
++    void Update()
++    {
++        
++    }
++}
+diff --git a/Assets/Models/Toilet/Toilet01.mat b/Assets/Models/Bathroom/Toilet/Toilet01.mat
+rename from Assets/Models/Toilet/Toilet01.mat
+rename to Assets/Models/Bathroom/Toilet/Toilet01.mat

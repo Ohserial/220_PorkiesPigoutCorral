@@ -37,6 +37,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
+.idea/
 
 # Visual Studio cache directory
 .vs/
@@ -67,8 +68,10 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.meta
-*.fbx.meta
+
+# meta files
+**.meta
+**.fbx.meta
 
 
 # Unity3D generated file on crash reports

@@ -11,7 +11,7 @@ public class Puke : MonoBehaviour
     {
         player = this.gameObject;
         pukeZone =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
-        pukeSystem =  player.GetComponent<ParticleSystem>();
+        pukeSystem =  player.GetComponentInChildren<ParticleSystem>();
         
     }
 
@@ -21,13 +21,15 @@ public class Puke : MonoBehaviour
         if (player == null) Debug.LogError("No player found");
         if (pukeZone == null) Debug.LogError("No Toilet Found");
         if (pukeSystem == null) Debug.LogError("No Particle System Found");
+        Debug.Log("Okay i guess its working then?");
+        // pukeSystem.Play();
     }
-    
-    private void OnCollisionEnter(Collision other)
+
+    private void OnTriggerEnter(Collider other)
     {
-        if (other.collider == pukeZone)
+        if (other.GetComponent<Collider>() == pukeZone)
         {
-            ThrowUp();
+            pukeSystem.Play();
         }
     }
 

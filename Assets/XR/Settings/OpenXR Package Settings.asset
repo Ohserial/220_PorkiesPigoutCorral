@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7365b139f7aec43b23d26b7a48b5a6, type: 3}
   m_Name: MetaQuestTouchPlusControllerProfile Android
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.Features.Interactions.MetaQuestTouchPlusControllerProfile
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta Quest Touch Plus Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestplus
@@ -1087,37 +1087,37 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: -6106052248869491236}
-  - {fileID: 6017868320333901558}
+  - {fileID: 7228665126144279286}
   - {fileID: -5672409656495971213}
-  - {fileID: -1027302199445224324}
+  - {fileID: -5318386217067932301}
+  - {fileID: -8976768106130961014}
+  - {fileID: 7576027815092642772}
+  - {fileID: 7455685407426847002}
+  - {fileID: -4181179057200686675}
+  - {fileID: 7786460880493390578}
   - {fileID: 5086255061877167196}
   - {fileID: 4084795438268475682}
   - {fileID: -7067097730261916177}
-  - {fileID: 7228665126144279286}
-  - {fileID: -4181179057200686675}
   - {fileID: 886374852190535087}
   - {fileID: -6729449968853876599}
-  - {fileID: 1501431951570055958}
-  - {fileID: 2561351501148358044}
-  - {fileID: -3409199103479212725}
-  - {fileID: 3826760922479466286}
-  - {fileID: 7786460880493390578}
-  - {fileID: -5318386217067932301}
-  - {fileID: 7183651317620798765}
-  - {fileID: 2704680149391346676}
   - {fileID: 5822477402322871806}
-  - {fileID: -4723653215241274495}
   - {fileID: 5527833447263138579}
-  - {fileID: 693609816961127185}
-  - {fileID: 7455685407426847002}
-  - {fileID: -7007603333953314543}
-  - {fileID: 8491634324449157983}
-  - {fileID: -6314212865325001481}
-  - {fileID: 7576027815092642772}
-  - {fileID: -8976768106130961014}
-  - {fileID: -465709569360990764}
+  - {fileID: 2704680149391346676}
+  - {fileID: -3409199103479212725}
   - {fileID: 4262271454671388070}
+  - {fileID: -465709569360990764}
+  - {fileID: -6314212865325001481}
+  - {fileID: 8491634324449157983}
+  - {fileID: 2561351501148358044}
+  - {fileID: -4723653215241274495}
+  - {fileID: 6017868320333901558}
+  - {fileID: 7183651317620798765}
+  - {fileID: -7007603333953314543}
+  - {fileID: 1501431951570055958}
+  - {fileID: -6106052248869491236}
+  - {fileID: 3826760922479466286}
+  - {fileID: -1027302199445224324}
+  - {fileID: 693609816961127185}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
@@ -2467,7 +2467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee92377a8e0c873458b71a94a80f3394, type: 3}
   m_Name: ApiLayersFeature Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.Features.ApiLayersFeature
-  m_enabled: 0
+  m_enabled: 1
   nameUi: API Layers
   version: 1.0.0
   featureIdInternal: com.unity.openxr.feature.apilayers
@@ -2478,7 +2478,16 @@ MonoBehaviour:
   required: 0
   customRuntimeLoaderName: 
   m_ApiLayers:
-    m_Collection: []
+    m_Collection:
+    - m_Json:
+        name: XR_APILAYER_METAX_operator
+        library_path: ./XrApiLayer_METAX_operator.dll
+        api_version: 1.1
+        implementation_version: 1
+        description: API layer that providing agentic interface for OpenXR
+      m_JsonFileName: XrApiLayer_METAX_operator.json
+      m_LibraryArchitecture: 1
+      m_IsEnabled: 1
 --- !u!114 &7257145075886279814
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="squash! owie my belly hurts">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Consumable Models/Burger.fbx_Burger.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Consumable Models/Burger.fbx_Drink.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Consumable Models/Fries.fbx_Fries.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Consumable Models/Soda and Burger eaten levels.fbx" afterDir="false" />
+    <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_ao_2k.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_ao_2k.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_color_2k.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_color_2k.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_height_2k.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_height_2k.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_metallic_2k.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_metallic_2k.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_normal_directx_2k.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_normal_directx_2k.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_normal_opengl_2k.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_normal_opengl_2k.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Ceiling Tiles/tiles_0013_roughness_2k.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Drop Ceiling Tiles/tiles_0013_roughness_2k.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Textures/Laminent Floor Texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Flooring/Laminent Floor Texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/striped-grunge-texture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Textures/Napkin/striped-grunge-texture.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains NO SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Booths/Booth LEONE version with stains NO SUBDIVISION.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Booths/Booth LEONE version with stains WITH SUBDIVISION.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Booths/Booth LEONE version with stains WITH SUBDIVISION.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Booths/better Booth LEONE version with stains WITH SUBDIVISION.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Booths/better Booth LEONE version with stains WITH SUBDIVISION.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Burger.fbx_Burger.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Burger.fbx_Burger.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Burger.fbx_Drink.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Burger.fbx_Drink.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Fries.fbx_Fries.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Fries.fbx_Fries.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Soda and Burger eaten levels.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Consumable Models/Soda and Burger eaten levels.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Fixins Bar/Sauce Udder.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Fixins Bar/Sauce Udder.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Order Counter/cash register.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Order Counter/cash register.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PorkiesAssets.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Puke Chunks/PorkiesAssets.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Puke Chunks/PukeChunks.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Bathroom/Puke Chunks/PukeChunks.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Table Accoutrement/Napkin Dispenser.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Table Accoutrement/Napkin Dispenser.blend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Tables/Leone Table RIGHT SIZE HOPEFULLY.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Dining Room/Tables/Leone Table RIGHT SIZE HOPEFULLY.fbx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +28,9 @@
     &quot;accountId&quot;: &quot;ca1a87d3-0253-4a7c-ade1-b4f8c055155e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Consumable Scripts - Copy/Consumable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
@@ -92,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1791264413945</updated>
       <workItem from="1791264415482" duration="2591000" />
-      <workItem from="1791295473310" duration="8806000" />
+      <workItem from="1791295473310" duration="9939000" />
+      <workItem from="1791383906846" duration="7987000" />
     </task>
     <task id="LOCAL-00001" summary="Ceiling Tiles">
       <option name="closed" value="true" />
@@ -206,7 +180,39 @@
       <option name="project" value="LOCAL" />
       <updated>1791302656071</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding files/Organizing">
+      <option name="closed" value="true" />
+      <created>1791307472975</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791307472975</updated>
+    </task>
+    <task id="LOCAL-00016" summary="VR Consumable Interaction">
+      <option name="closed" value="true" />
+      <created>1791385547914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1791385547914</updated>
+    </task>
+    <task id="LOCAL-00017" summary="VR Consumables">
+      <option name="closed" value="true" />
+      <created>1791389429295</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1791389429295</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Consumption Prefab">
+      <option name="closed" value="true" />
+      <created>1791390142377</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791390142377</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +228,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -244,7 +256,11 @@
     <MESSAGE value="Unversioned Files Organizing" />
     <MESSAGE value="Moved to booth and table folders" />
     <MESSAGE value="owie my belly hurts" />
-    <option name="LAST_COMMIT_MESSAGE" value="owie my belly hurts" />
+    <MESSAGE value="Adding files/Organizing" />
+    <MESSAGE value="VR Consumable Interaction" />
+    <MESSAGE value="VR Consumables" />
+    <MESSAGE value="Consumption Prefab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consumption Prefab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

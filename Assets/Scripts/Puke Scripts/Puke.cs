@@ -1,41 +1,54 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Puke : MonoBehaviour
 {
-    private BoxCollider pukeZone;
-    private GameObject player;
-    private ParticleSystem pukeSystem;
+    private BoxCollider _toiletAreaCollider;
+    private GameObject _player;
+    private ParticleSystem _particleSystem;
+    private AudioSource _audioSource;
     // when you enter the bathroom, if you've finished your burger, start puking when you enter toilet range
     private void Awake()
     {
-        player = this.gameObject;
-        pukeZone =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
-        pukeSystem =  player.GetComponentInChildren<ParticleSystem>();
+        _player = this.gameObject;
+        _toiletAreaCollider =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
+        _particleSystem =  _player.GetComponentInChildren<ParticleSystem>();
+        _audioSource = _player.GetComponentInChildren<AudioSource>();
+        
         
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (player == null) Debug.LogError("No player found");
-        if (pukeZone == null) Debug.LogError("No Toilet Found");
-        if (pukeSystem == null) Debug.LogError("No Particle System Found");
+        if (_player == null) Debug.LogError("No player found");
+        if (_toiletAreaCollider == null) Debug.LogError("No Toilet Found");
+        if (_particleSystem == null) Debug.LogError("No Particle System Found");
         Debug.Log("Okay i guess its working then?");
-        // pukeSystem.Play();
+        // ThrowUp();
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void Update()
     {
-        if (other.GetComponent<Collider>() == pukeZone)
+        if (Keyboard.current.pKey.wasPressedThisFrame)
         {
-            pukeSystem.Play();
+            ThrowUp();
+        }
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (other.collider == _toiletAreaCollider)
+        {
+            ThrowUp();
         }
     }
 
     private void ThrowUp()
     {
         Debug.Log("I'm not feeling so good... ");
-        pukeSystem.Play();
+        _particleSystem.Play();
+        _audioSource.Play();
     }
 }

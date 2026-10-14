@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Porkies Resturant .fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_10_40_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_10_40_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Booth LEONE version with stains NO SUBDIVISION.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Booth LEONE version with stains WITH SUBDIVISION.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Napkin Dispenser.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/PorkiesAssets.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/PukeChunks.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Sauce Udder.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet_AO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet_BaseColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet_Metallic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet_NormalOGL8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/Toilet_Roughness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/cash register.blend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_6_2026_11_07_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/freesound_community-munching-sound-105956.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Porkies Logo - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Porkies mascot - Copy.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/brown-paper-text-space_53876-95444.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Updated Materials and Textures - Copy.blend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +73,7 @@
       <workItem from="1791383906846" duration="7987000" />
       <workItem from="1791838305182" duration="3317000" />
       <workItem from="1791865663525" duration="252000" />
-      <workItem from="1791934592753" duration="2176000" />
+      <workItem from="1791934592753" duration="2563000" />
     </task>
     <task id="LOCAL-00001" summary="Ceiling Tiles">
       <option name="closed" value="true" />
@@ -241,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791838467937</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Resturant, Consumabale Interaction">
+      <option name="closed" value="true" />
+      <created>1791965723793</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1791965723793</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +284,8 @@
     <MESSAGE value="VR Consumables" />
     <MESSAGE value="Consumption Prefab" />
     <MESSAGE value="Organizing/NPC Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organizing/NPC Model" />
+    <MESSAGE value="Resturant, Consumabale Interaction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resturant, Consumabale Interaction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

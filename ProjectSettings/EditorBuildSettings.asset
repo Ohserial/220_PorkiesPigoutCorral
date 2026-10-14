@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Building and Grayboxing Scene LEONE.unity
     guid: 12257ebe6a355194a887e623557ef111
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/TestScene - NPCs.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestScene - Bathroom stuff.unity
     guid: fa8680376a6d94649beb93677e3f89f0
   m_configObjects:

@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class Puke : MonoBehaviour
 {
     public bool canThrowUp = false;
-    [SerializeField] private BoxCollider toiletAreaCollider;
+    [SerializeField] private Collider toiletAreaCollider;
     private GameObject _player;
     private ParticleSystem _particleSystem;
     private AudioSource _audioSource;
@@ -34,15 +34,12 @@ public class Puke : MonoBehaviour
 
     private void Update()
     {
-        if (_pukeAction.WasPressedThisFrame())
-        {
-            ThrowUp();
-        }
+        if (_pukeAction.WasPressedThisFrame()) ThrowUp();
     }
 
     private void OnTriggerEnter (Collider other)
     {
-            if (canThrowUp)ThrowUp();
+            if (other == toiletAreaCollider && canThrowUp) ThrowUp();
     }
 
     private void ThrowUp()

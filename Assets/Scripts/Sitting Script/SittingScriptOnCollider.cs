@@ -37,7 +37,8 @@ public class SittingScriptOnCollider : MonoBehaviour
            isColliding = true; 
            Debug.Log("It collided");
         }
-        else if (!col.bounds.Intersects(playerCol.bounds) && isNotColliding == false)
+        
+        if (!col.bounds.Intersects(playerCol.bounds) && isNotColliding == false)
         {
             
            thePlayerCamera.transform.localScale += new Vector3(0, 0.0075f, 0); // READ B4 CHANGING: The values here are

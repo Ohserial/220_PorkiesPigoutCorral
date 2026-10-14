@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene - Bathroom stuff.unity
     guid: fa8680376a6d94649beb93677e3f89f0
+  - enabled: 0
+    path: Assets/Scenes/new LEONE Graybox scene.unity
+    guid: af07b81913ac7c24c8c6675cd307ec47
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c5a517f52da2a1348989211ebbcae604, type: 2}

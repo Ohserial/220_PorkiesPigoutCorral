@@ -25,15 +25,17 @@ public class SittingScriptOnCollider : MonoBehaviour
    
     void Update()
     {
-        if (col.bounds.Intersects(playerCol.bounds))
+        if (col.bounds.Intersects(playerCol.bounds) && isNotColliding)
         { 
-           isNotColliding = false;
+           
            thePlayerCamera.transform.localScale -= new Vector3(0, 0.0075f, 0); // READ B4 CHANGING: The values here are
                                                                                // so small because if they become too
                                                                                // big, the player just clips though the
                                                                                // ground. This should work if the camera
                                                                                // rig's y value starts at 0.
                                                                                // - AL
+                                                                               
+           isNotColliding = false;
            isColliding = true; 
            Debug.Log("It collided");
         }

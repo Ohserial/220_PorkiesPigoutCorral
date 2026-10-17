@@ -3,23 +3,44 @@ using UnityEngine;
 public class RiseScriptNPC : MonoBehaviour
 {
     public bool isActivated = false;
-    private GameObject npc;
+    [SerializeField] private bool hasRisen = false;
+    public GameObject npc;
     private AudioSource aS;
+    public bool finished = false;
+    public float speed = 1;
+    public float howMuch = 1;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        npc = GetComponent<GameObject>();
+        // For some reason using GetComponent to make the NPC this script should attach to find itself as a GameObject
+        // wouldn't work, so I just made the GameObject public, and assigned it the NPC GameObject itself. As such, the
+        // GameObject GetComponent call below is PURPOSELY COMMENTED OUT. However, the AudioSource one is not, which is
+        // also intentional, since that one is working. 
+        // - AL
+        //npc = GetComponent<GameObject>();
         aS = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
-        if (isActivated)
+        if (isActivated && !hasRisen)
         {
-            npc.transform.position += new Vector3(0, 4, 0) * Time.deltaTime;
-            aS.PlayOneShot(aS.clip);
+            if (npc.transform.position.y < howMuch) 
+            {
+                npc.transform.Translate(Vector3.up * speed * Time.deltaTime);
+            }
+            aS.Play();
+            if (npc.transform.position.y == 1 || npc.transform.position.y > howMuch)
+            {
+                finished = true;
+            }
+            
+        }
+
+        if (isActivated && finished)
+        {
+            hasRisen = true;
         }
     }
 }

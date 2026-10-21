@@ -4,8 +4,8 @@ public class CashierScript : MonoBehaviour
 {
     [SerializeField] private GameObject _cashier;
     [SerializeField] private BoxCollider _registerAreaCollider;
-    private Vector3 _cashierLowPosition = new Vector3 (15, -4.5f, 0f);
-    private Vector3 _cashierHighPosition =  new Vector3 (15, 0, 0f);
+    private Vector3 _cashierLowPosition;
+    private Vector3 _cashierHighPosition;
     
     private float startTime;
     private float speed;

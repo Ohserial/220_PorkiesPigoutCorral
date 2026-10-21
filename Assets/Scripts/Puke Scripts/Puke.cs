@@ -6,13 +6,15 @@ public class Puke : MonoBehaviour
 {
     public bool canThrowUp = false;
     [SerializeField] private Collider toiletAreaCollider;
+    [SerializeField] private Collider playerCollider;
     private GameObject _player;
     private ParticleSystem _particleSystem;
     private AudioSource _audioSource;
     private InputAction _pukeAction;
-    // when you enter the bathroom, if you've finished your burger, start puking when you enter toilet range
+
+    
     private void Awake()
-    {
+    { 
         _player = this.gameObject;
         // _toiletAreaCollider =  GameObject.FindGameObjectWithTag("Toilet").GetComponent<BoxCollider>();
         _particleSystem =  _player.GetComponentInChildren<ParticleSystem>();
@@ -21,7 +23,6 @@ public class Puke : MonoBehaviour
         
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         if (_player == null) Debug.LogError("No player found");
@@ -30,6 +31,7 @@ public class Puke : MonoBehaviour
         Debug.Log("Okay i guess its working then?");
         // ThrowUp();
         canThrowUp = true;
+        
     }
 
     private void Update()
@@ -39,7 +41,18 @@ public class Puke : MonoBehaviour
 
     private void OnTriggerEnter (Collider other)
     {
-            if (other == toiletAreaCollider && canThrowUp) ThrowUp();
+        
+        Debug.Log("I'm triggered");
+        
+        if (other == toiletAreaCollider)
+        {
+            ThrowUp();
+        }
+
+        if (other == playerCollider)
+        {
+            Debug.Log("player");
+        }
     }
 
     private void ThrowUp()

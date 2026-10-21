@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Building/Porkies Drop Ceiling.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1325e478-0946-405b-a2c4-384b413f4d49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <workItem from="1791934592753" duration="2643000" />
       <workItem from="1791987347339" duration="2467000" />
       <workItem from="1792545943187" duration="955000" />
-      <workItem from="1792554329703" duration="7608000" />
+      <workItem from="1792554329703" duration="8374000" />
     </task>
     <task id="LOCAL-00001" summary="Ceiling Tiles">
       <option name="closed" value="true" />
@@ -267,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792557147118</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Resturant roof - needs drop ceiling material applied">
+      <option name="closed" value="true" />
+      <created>1792564145172</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1792564145172</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +326,8 @@
     <MESSAGE value="the sky box gabe plese test" />
     <MESSAGE value="New Porkies Resturant" />
     <MESSAGE value="New Porkies floors the long way becuase my eyes are small" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Porkies floors the long way becuase my eyes are small" />
+    <MESSAGE value="Resturant roof - needs drop ceiling material applied" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resturant roof - needs drop ceiling material applied" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

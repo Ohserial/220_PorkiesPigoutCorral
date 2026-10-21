@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Consumer : MonoBehaviour
+public class Consumer1 : MonoBehaviour
 {
     private Collider _collider;
     

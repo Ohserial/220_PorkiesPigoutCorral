@@ -7,6 +7,7 @@ public class Puke : MonoBehaviour
     public bool canThrowUp = false;
     [SerializeField] private Collider toiletAreaCollider;
     [SerializeField] private Collider playerCollider;
+    [SerializeField] private Consumable burgerConsumable;
     private GameObject _player;
     private ParticleSystem _particleSystem;
     private AudioSource _audioSource;
@@ -30,13 +31,15 @@ public class Puke : MonoBehaviour
         if (_particleSystem == null) Debug.LogError("No Particle System Found");
         Debug.Log("Okay i guess its working then?");
         // ThrowUp();
-        canThrowUp = true;
+        // canThrowUp = true;
         
     }
 
     private void Update()
     {
-        if (_pukeAction.WasPressedThisFrame()) ThrowUp();
+        if (burgerConsumable.IsFinished) canThrowUp = true;
+        else canThrowUp = false;
+        if (_pukeAction.WasPressedThisFrame() && canThrowUp) ThrowUp();
     }
 
     private void OnTriggerEnter (Collider other)

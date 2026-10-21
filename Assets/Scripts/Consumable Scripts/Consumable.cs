@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Consumable : MonoBehaviour
+public class Consumable1 : MonoBehaviour
 {
     [SerializeField] GameObject[] portions;
     [SerializeField] int index = 0;
